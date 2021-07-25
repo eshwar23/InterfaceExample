@@ -9,7 +9,7 @@ class Main
 }
 
 /*
-how to use implements and extends together
+how to use implements and extends together - IMPORTANT
 
 public class SubClassCar extends SuperClass_Vehicle implements Interface_colour, Interface_MaxSpeed
 
