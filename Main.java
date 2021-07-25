@@ -7,3 +7,10 @@ class Main
         obj.Perimeter();
     }
 }
+
+/*
+how to use implements and extends together
+
+public class SubClassCar extends SuperClass_Vehicle implements Interface_colour, Interface_MaxSpeed
+
+*/
